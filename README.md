@@ -11,13 +11,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@victor.w.brun](https://medium.com/@victor.w.brun)
 
-- 💬 Ask me about **Mathematical and statistical modelling**
+- 💬 Ask me about **mathematical and statistical modelling**
 
 - 📫 How to reach me **victor.w.brun@gmail.com**
 
 - 📄 Know about my experiences [https://victorbrun.com/resume_victorbrun.pdf](https://victorbrun.com/resume_victorbrun.pdf)
 
-- ⚡ Fun fact **My hairline started receding at age 16**
+- ⚡ Fun fact **my hairline started receding at age 16**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
