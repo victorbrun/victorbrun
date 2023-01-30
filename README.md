@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [gosymbol](https://github.com/victorbrun/gosymbol)
 
-- 🌱 I’m currently learning **SDEs and Computational methods for Bayesian statistics**
+- 🌱 I’m currently learning about **the Libor market model and the Forward market model**
 
 - 👨‍💻 All of my projects are available at [https://victorbrun.com/projects/](https://victorbrun.com/projects/)
 
