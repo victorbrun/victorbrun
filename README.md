@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">An engineering mathematics student passionate about mathematical modelling and fast code</h3>
+<h3 align="center">A quantitative risk modeller passionate about mathematical modelling and fast code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorbrun&label=Profile%20views&color=0e75b6&style=flat" alt="victorbrun" /> </p>
 
