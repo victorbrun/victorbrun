@@ -21,8 +21,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Computer Algebra System in Go, Part 1: Multivariate Expressions and Differentiation](https://medium.com/better-programming/building-a-computer-algebra-system-in-go-part-1-multivariate-expressions-and-differentiation-291d948aa0e4?source=rss-b7141785466f------2)
-- [How to Write Syntax Tree-Based Domain-Specific Languages in Go](https://medium.com/better-programming/how-to-write-syntax-tree-based-domain-specific-languages-in-go-b15537f0d2f3?source=rss-b7141785466f------2)
+- [Building a Computer Algebra System in Go, Part 1: Multivariate Expressions and Differentiation](https://betterprogramming.pub/building-a-computer-algebra-system-in-go-part-1-multivariate-expressions-and-differentiation-291d948aa0e4?source=rss-b7141785466f------2)
+- [How to Write Syntax Tree-Based Domain-Specific Languages in Go](https://betterprogramming.pub/how-to-write-syntax-tree-based-domain-specific-languages-in-go-b15537f0d2f3?source=rss-b7141785466f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
