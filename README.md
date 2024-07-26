@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on [gosymbol](https://github.com/victorbrun/gosymbol)
 
-- 🌱 I’m currently learning about **the Libor market model and the Forward market model**
-
 - 👨‍💻 All of my projects are available at [https://victorbrun.com/projects/](https://victorbrun.com/projects/)
 
 - 📝 I regularly write articles on [https://medium.com/@victor.w.brun](https://medium.com/@victor.w.brun)
 
 - 💬 Ask me about **mathematical and statistical modelling**
 
-- 📫 How to reach me **victor.w.brun@gmail.com**
+- 📫 How to reach me **me@victorbrun.com**
 
 - 📄 Know about my experiences [https://victorbrun.com/resume_victorbrun.pdf](https://victorbrun.com/resume_victorbrun.pdf)
 
