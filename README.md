@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **me@victorbrun.com**
 
-- 📄 Know about my experiences [https://victorbrun.com/resume_victorbrun.pdf](https://victorbrun.com/resume_victorbrun.pdf)
-
 - ⚡ Fun fact **my hairline started receding at age 16**
 
 ### Blogs posts
